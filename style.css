@@ -3,4 +3,8 @@ body {
 }
 .center { text-align: center;
 }
+#size {
+  height: 400px;
+  width:  100px;
+}
   
